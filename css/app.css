@@ -1,0 +1,21 @@
+#guess{
+	margin-left: 110px;
+
+}
+
+body { 
+  background: url(../images/quiz.jpg) no-repeat center fixed; 
+  background-size: cover;
+  width:100%;		
+}
+
+.well{
+	background-color: orange;
+}
+
+#finished{
+	background-color: green;
+	font-weight: bolder;
+	width: 65px;
+	margin-left: 100px;
+}
